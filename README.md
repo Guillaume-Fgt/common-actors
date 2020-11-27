@@ -11,7 +11,7 @@ It is very simple to use...
 Simply:
 - Install Python 3
 - Install IMDbPY
--install PySimpleGUI
+- Install PySimpleGUI
 
 ![](test.gif)
 
