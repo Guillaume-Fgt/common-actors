@@ -8,10 +8,10 @@ I created this script because I couldn't remember the name of an actor, but I co
 
 It is very simple to use...
 
-Simply:
-- Install Python 3
-- Install IMDbPY
-- Install PySimpleGUI
+Use: (see requirements)
+- Python 3.8
+- IMDbPY
+- PySimpleGUI
 
 ![](test.gif)
 
